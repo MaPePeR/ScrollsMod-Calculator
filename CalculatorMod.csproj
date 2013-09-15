@@ -39,7 +39,7 @@
       <HintPath>..\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="ScrollsModLoader.Interfaces">
-      <HintPath>..\..\..\ScrollsModding\TutorialCondom\Template.mod\ScrollsModLoader.Interfaces.dll</HintPath>
+      <HintPath>..\ScrollsModLoader.Interfaces.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml" />
   </ItemGroup>
