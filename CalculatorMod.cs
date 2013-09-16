@@ -42,7 +42,7 @@ namespace CalculatorMod
 			return "Calculator";
 		}
 		public static int GetVersion() {
-			return 1;
+			return 2;
 		}
 
 		private BattleMode bm = null;
